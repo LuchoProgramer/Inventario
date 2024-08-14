@@ -1,0 +1,7 @@
+# Archivos de entorno de Anaconda
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.sqlite3
